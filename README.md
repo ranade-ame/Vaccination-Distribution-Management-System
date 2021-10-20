@@ -45,3 +45,18 @@ Business Rules:
 
 • If vaccine V1 is available in area A1, and v1 is also known to be available in the pharmacies of division A, it can be inferred that the pharmacies in area A1 have vaccine v1 available.
 
+Chens Relationship Diagram:
+
+![image](https://user-images.githubusercontent.com/78456439/138176772-528bcc37-0b63-4916-afd3-78a94eb470be.png)
+
+Database Dictionary:
+
+![image](https://user-images.githubusercontent.com/78456439/138176868-984f01ff-5daf-4e7c-9782-4766c4891d68.png)
+
+Key Design Decisions: 
+
+![image](https://user-images.githubusercontent.com/78456439/138176905-c562fb8e-6e2e-4993-a686-43f2e23d058b.png)
+
+Entity Relationship Diagram:
+
+![image](https://user-images.githubusercontent.com/78456439/138177141-05840943-ed61-4621-adf1-4e174a64e969.png)
